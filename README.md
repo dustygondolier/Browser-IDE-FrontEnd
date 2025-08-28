@@ -15,6 +15,7 @@ Let me introduce the humans (redacted for privacy):
 - **Dhruv:** Of course, first me!  
 - **Ayush:** The AI-envious guy  
 - **Manpreet:** The dictator
+- **Utkarsh:** NewBie
 
 **P.S.:**  
 The frontend is deployed on Cloudflare Pages, the backend on Render, and one VM is running on Azure.
